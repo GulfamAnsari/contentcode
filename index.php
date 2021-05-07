@@ -3,7 +3,7 @@
 
 <head>
 
-     <title>Digital Trend HTML Template</title>
+     <title>Contentcode</title>
      <!--
 
 Content Code

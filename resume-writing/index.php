@@ -3,7 +3,7 @@
 
 <head>
 
-  <title>Digital Trend - Project Detail</title>
+  <title>Contentcode - Project Detail</title>
 
   <meta name="description" content="">
   <meta name="keywords" content="">

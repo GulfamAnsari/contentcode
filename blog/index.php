@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 
-     <title>Digital Trend - Blog</title>
+     <title>Contentcode - Blog</title>
 <!--
 
-DIGITAL TREND
+Contentcode
 
 https://templatemo.com/tm-538-digital-trend
 
@@ -27,7 +27,7 @@ https://templatemo.com/tm-538-digital-trend
 
                     <div class="col-lg-12 col-12 py-5 mt-5 mb-3 text-center">
 
-                      <h1 class="mb-4" data-aos="fade-up">Digital Trend Blog</h1>
+                      <h1 class="mb-4" data-aos="fade-up">Contentcode Blog</h1>
                     </div>
 
                     <div class="col-lg-7 col-md-7 col-12 mb-4">

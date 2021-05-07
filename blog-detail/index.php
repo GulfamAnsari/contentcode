@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 
-     <title>Digital Trend - Blog Detail</title>
+     <title>Contentcode - Blog Detail</title>
 <!--
 
-DIGITAL TREND
+Contentcode
 
 https://templatemo.com/tm-538-digital-trend
 
