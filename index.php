@@ -64,7 +64,7 @@ https://templatemo.com/tm-538-digital-trend
 
                               <h2 class="mb-4" data-aos="fade-up">Work with the <strong>innovators</strong> of tommorow</h2>
 
-                              <p class="mb-0" data-aos="fade-up">Sit back and relax<a href="blog.html"></a> <a href="project-detail.html"></a> <a href="/contact"></a>
+                              <p class="mb-0" data-aos="fade-up">Sit back and relax
                                    <br><br>We stitch <strong>your ideas into marketable content</strong> that drives business.</p>
                          </div>
 
