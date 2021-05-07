@@ -181,30 +181,21 @@ https://templatemo.com/tm-538-digital-trend
      <!-- TESTIMONIAL -->
 
 
-     <section class="testimonial section-padding">
+     <section class="testimonial section-padding" style="background: #077a8c">
           <div class="container">
-               <h2 class="mb-5 text-center" data-aos="fade-up">
-                    Read what our clients say...
-               </h2>
                <div class="row">
 
+                    <div class="col-lg-12 col-12">
+                         <h3 class="mb-5 text-center" data-aos="fade-up" style="color: white">
 
-
-                    <div class="col-lg-6 col-md-5 col-12">
-                         <div class="contact-image" data-aos="fade-up">
-
-                              <img src="/images/female-avatar.png" class="img-fluid" alt="website">
-                         </div>
+                              Read what our clients say...
+                         </h3>
                     </div>
-
-
-                    <div class="col-lg-6 col-md-7 col-12">
-                         <h4 class="my-5 pt-3" data-aos="fade-up" data-aos-delay="100">DroidTechKnow</h4>
-
-                         <div class="quote" data-aos="fade-up" data-aos-delay="200"></div>
-
-                         <h2 class="mb-4" data-aos="fade-up" data-aos-delay="300">"Managing a blog can be tiresome sometimes but with end-to-end blogging and marketing services from Content Code, we achieved 2X more revenue in just three month!"</h2>
-
+                    <div class="col-md-4 testimonial-box" data-aos="fade-up" data-aos-delay="400">
+                         <div data-aos="fade-up" data-aos-delay="400" class="testi-image"><img width="150" src="https://droidtechknow.com/images/logo.png" class="img-fluid" alt="website"></div>
+                         <h4 data-aos="fade-up" data-aos-delay="100">DroidTechKnow</h4>
+                         
+                         <blockquote style="font-style: italic" class="mb-4" data-aos="fade-up" data-aos-delay="300">Managing a blog can be tiresome sometimes but with end-to-end blogging and marketing services from Content Code, we achieved 2X more revenue in just three month!</blockquote>
                          <p data-aos="fade-up" data-aos-delay="400">
                               <strong>Gulfam Ansari</strong>
 
@@ -213,8 +204,8 @@ https://templatemo.com/tm-538-digital-trend
                               <small>Tech Blog (CEO)</small>
                          </p>
                     </div>
-
                </div>
+
           </div>
      </section>
      <?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php'); ?>
