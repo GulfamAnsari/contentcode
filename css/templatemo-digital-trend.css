@@ -724,11 +724,11 @@ a:focus {
   display: flex;
   flex-direction: column;
   align-items: center;
-  
+  margin: 0 12px;
 
 }
 
-.testi-image{
+.testi-image {
   width: 150px;
   height: 150px;
   display: flex;

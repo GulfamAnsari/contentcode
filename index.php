@@ -193,7 +193,7 @@ https://templatemo.com/tm-538-digital-trend
                     </div>
                     <div class="col-md-4 testimonial-box" data-aos="fade-up" data-aos-delay="400">
                          <div data-aos="fade-up" data-aos-delay="400" class="testi-image"><img width="150" src="https://droidtechknow.com/images/logo.png" class="img-fluid" alt="website"></div>
-                         <h4 data-aos="fade-up" data-aos-delay="100">DroidTechKnow</h4>
+                         <h4 data-aos="fade-up" data-aos-delay="100"><a href="https://droidtechknow.com" target="_blank">DroidTechKnow</a></h4>
                          
                          <blockquote style="font-style: italic" class="mb-4" data-aos="fade-up" data-aos-delay="300">Managing a blog can be tiresome sometimes but with end-to-end blogging and marketing services from Content Code, we achieved 2X more revenue in just three month!</blockquote>
                          <p data-aos="fade-up" data-aos-delay="400">
