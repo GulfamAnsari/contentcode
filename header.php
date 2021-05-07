@@ -13,19 +13,19 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a href="#about" class="nav-link smoothScroll">Home</a>
+                    <a href="/" class="nav-link smoothScroll">Home</a>
                 </li>
                 <li class="nav-item">
                     <a href="#project" class="nav-link smoothScroll">Our Services</a>
                 </li>
                 <li class="nav-item">
-                    <a href="blog.html" class="nav-link">Latest Blogs</a>
+                    <a href="/blog" class="nav-link">Latest Blogs</a>
                 </li>
                 <li class="nav-item">
-                    <a href="blog.html" class="nav-link">About Us</a>
+                    <a href="/about-us" class="nav-link">About Us</a>
                 </li>
                 <li class="nav-item">
-                    <a href="blog.html" class="nav-link">Consulting Masterclass</a>
+                    <a href="/consulting-masterclass" class="nav-link">Consulting Masterclass</a>
                 </li>
                 <li class="nav-item">
                     <a href="/contact" class="nav-link contact">Contact Us</a>
