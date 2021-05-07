@@ -3,10 +3,10 @@
 
 <head>
 
-  <title>Contentcode - Project Detail</title>
+  <title>Content Code - Project Detail</title>
   <!--
 
-Contentcode
+Content Code
 
 https://templatemo.com/tm-538-digital-trend
 

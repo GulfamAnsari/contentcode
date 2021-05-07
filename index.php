@@ -3,7 +3,7 @@
 
 <head>
 
-     <title>Contentcode</title>
+     <title>Content Code</title>
      <!--
 
 Content Code

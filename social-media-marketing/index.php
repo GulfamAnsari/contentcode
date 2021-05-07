@@ -3,7 +3,7 @@
 
 <head>
 
-  <title>Contentcode - Project Detail</title>
+  <title>Content Code - Project Detail</title>
 
   <meta name="description" content="">
   <meta name="keywords" content="">

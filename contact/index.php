@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 
-     <title>Contentcode Contact</title>
+     <title>Content Code Contact</title>
 <!--
 
-Contentcode
+Content Code
 
 https://templatemo.com/tm-538-digital-trend
 
