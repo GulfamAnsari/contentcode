@@ -44,7 +44,7 @@ https://templatemo.com/tm-538-digital-trend
 
                       <div class="client-info">
                           <div class="d-flex justify-content-center align-items-center mt-3">
-                            <img src="images/project/project-detail/male-avatar.png" class="img-fluid" alt="male avatar">
+                            <img src="/images/project/project-detail/male-avatar.png" class="img-fluid" alt="male avatar">
 
                             <p>Sweet Candy</p>
                           </div>
@@ -57,7 +57,7 @@ https://templatemo.com/tm-538-digital-trend
 
 
      <div class="full-image text-center" data-aos="zoom-in">
-       <img src="images/blog/blog-header-image.jpg" class="img-fluid" alt="blog header">
+       <img src="/images/blog/blog-header-image.jpg" class="img-fluid" alt="blog header">
      </div>
 
 

@@ -56,7 +56,7 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-lg-6 col-12">
                          <div class="hero-image" data-aos="fade-up" data-aos-delay="300">
 
-                              <img src="images/working-girl.png" class="img-fluid" alt="working girl">
+                              <img src="/images/working-girl.png" class="img-fluid" alt="working girl">
                          </div>
                     </div>
 
@@ -81,7 +81,7 @@ https://templatemo.com/tm-538-digital-trend
 
                          <div class="about-image" data-aos="fade-up" data-aos-delay="200">
 
-                              <img src="images/office.png" class="img-fluid" alt="office">
+                              <img src="/images/office.png" class="img-fluid" alt="office">
                          </div>
                     </div>
 
@@ -108,7 +108,7 @@ https://templatemo.com/tm-538-digital-trend
 
                          <div class="owl-carousel owl-theme" id="project-slide">
                               <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
-                                   <img src="images/project/project-image01.jpg" class="img-fluid" alt="project image">
+                                   <img src="/images/project/project-image01.jpg" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Marketing</small>
@@ -123,7 +123,7 @@ https://templatemo.com/tm-538-digital-trend
                               </div>
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image02.jpg" class="img-fluid" alt="project image">
+                                   <img src="/images/project/project-image02.jpg" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Instagram, Facebook, LinkedIn, Pinterest, Telegram, Tumblr, Twitter </small>
@@ -138,7 +138,7 @@ https://templatemo.com/tm-538-digital-trend
                               </div>
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image03.jpg" class="img-fluid" alt="project image">
+                                   <img src="/images/project/project-image03.jpg" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Career</small>
@@ -153,7 +153,7 @@ https://templatemo.com/tm-538-digital-trend
                               </div>
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image04.jpg" class="img-fluid" alt="project image">
+                                   <img src="/images/project/project-image04.jpg" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Social Media</small>
@@ -168,7 +168,7 @@ https://templatemo.com/tm-538-digital-trend
                               </div>
 
                               <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image05.jpg" class="img-fluid" alt="project image">
+                                   <img src="/images/project/project-image05.jpg" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
                                         <small>Ebooks, articles, newsletters, press releases</small>
@@ -204,7 +204,7 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-lg-6 col-md-5 col-12">
                          <div class="contact-image" data-aos="fade-up">
 
-                              <img src="images/female-avatar.png" class="img-fluid" alt="website">
+                              <img src="/images/female-avatar.png" class="img-fluid" alt="website">
                          </div>
                     </div>
 
@@ -228,7 +228,7 @@ https://templatemo.com/tm-538-digital-trend
                </div>
           </div>
      </section>
-     <?php include($_SERVER['DOCUMENT_ROOT'] . '/header.php'); ?>
+     <?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php'); ?>
 
 
 

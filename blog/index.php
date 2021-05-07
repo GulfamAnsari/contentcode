@@ -43,7 +43,7 @@ https://templatemo.com/tm-538-digital-trend
 
                     <div class="col-lg-7 col-md-7 col-12 mb-4">
                       <div class="blog-header" data-aos="fade-up" data-aos-delay="100">
-                        <img src="images/blog/blog-header-image.jpg" class="img-fluid" alt="blog header">
+                        <img src="/images/blog/blog-header-image.jpg" class="img-fluid" alt="blog header">
 
                         <div class="blog-header-info">
                           <h4 class="blog-category text-info">Creative</h4>
@@ -55,7 +55,7 @@ https://templatemo.com/tm-538-digital-trend
 
                     <div class="col-lg-5 col-md-5 col-12 mb-4">
                       <div class="blog-sidebar d-flex justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
-                        <img src="images/blog/blog-sidebar-image.jpg" class="img-fluid" alt="blog">
+                        <img src="/images/blog/blog-sidebar-image.jpg" class="img-fluid" alt="blog">
 
                         <div class="blog-info">
                           <h4 class="blog-category text-danger">Design</h4>
@@ -65,7 +65,7 @@ https://templatemo.com/tm-538-digital-trend
                       </div>
 
                       <div class="blog-sidebar py-4 d-flex justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="300">
-                        <img src="images/blog/blog-sidebar-image01.jpg" class="img-fluid" alt="blog">
+                        <img src="/images/blog/blog-sidebar-image01.jpg" class="img-fluid" alt="blog">
 
                         <div class="blog-info">
                           <h4 class="blog-category text-success">lifestyle</h4>
@@ -75,7 +75,7 @@ https://templatemo.com/tm-538-digital-trend
                       </div>
 
                       <div class="blog-sidebar d-flex justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
-                        <img src="images/blog/blog-sidebar-image02.jpg" class="img-fluid" alt="blog">
+                        <img src="/images/blog/blog-sidebar-image02.jpg" class="img-fluid" alt="blog">
 
                         <div class="blog-info">
                           <h4 class="blog-category text-primary">Coding</h4>
@@ -88,7 +88,7 @@ https://templatemo.com/tm-538-digital-trend
 
                     <div class="col-lg-5 ml-auto mt-5 pt-5 col-md-6 col-12">
 
-                      <img src="images/newsletter.png" data-aos="fade-up" data-aos-delay="100" class="img-fluid" alt="newsletter">
+                      <img src="/images/newsletter.png" data-aos="fade-up" data-aos-delay="100" class="img-fluid" alt="newsletter">
                     </div>
 
                     <div class="col-lg-5 mr-auto mt-5 pt-5 col-md-6 col-12 newsletter-form">

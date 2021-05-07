@@ -52,7 +52,7 @@ https://templatemo.com/tm-538-digital-trend
   </section>
 
   <div class="full-image text-center" data-aos="zoom-in">
-    <img src="images/project/project-detail/content-writing.jpg" class="img-fluid" alt="content writing">
+    <img src="/images/project/project-detail/content-writing.jpg" class="img-fluid" alt="content writing">
   </div>
 
   <!-- PROJECT DETAIL -->
@@ -83,7 +83,7 @@ https://templatemo.com/tm-538-digital-trend
             Advertisements, mobile applications, press release, speech.</h3>
 
           <div class="d-flex align-items-center mt-3">
-            <img src="images/project/project-detail/bidisha1.jpg" style="border-radius: 50%;" class="img-fluid" alt="bidisha saha">
+            <img src="/images/project/project-detail/bidisha1.jpg" style="border-radius: 50%;" class="img-fluid" alt="bidisha saha">
 
             <p>Bidisha Saha</p>
           </div>

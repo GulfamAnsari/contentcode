@@ -52,7 +52,7 @@ https://templatemo.com/tm-538-digital-trend
   </section>
 
   <div class="full-image text-center" data-aos="zoom-in">
-    <img src="images/project/project-detail/proof-reading.jpg" class="img-fluid" alt="Prood Reading and Editing">
+    <img src="/images/project/project-detail/proof-reading.jpg" class="img-fluid" alt="Prood Reading and Editing">
   </div>
 
   <!-- PROJECT DETAIL -->
@@ -82,7 +82,7 @@ https://templatemo.com/tm-538-digital-trend
           <h3>Get  error-free, well-edited and desirable content only in 3 hours at amazing prices to suit your requirement.</h3>
 
           <div class="d-flex align-items-center mt-3">
-            <img src="images/project/project-detail/bidisha1.jpg" style="border-radius: 50%;" class="img-fluid"
+            <img src="/images/project/project-detail/bidisha1.jpg" style="border-radius: 50%;" class="img-fluid"
               alt="bidisha saha">
 
             <p>Bidisha Saha</p>

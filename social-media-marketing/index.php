@@ -52,7 +52,7 @@ https://templatemo.com/tm-538-digital-trend
   </section>
 
   <div class="full-image text-center" data-aos="zoom-in">
-    <img src="images/project/project-detail/Social-media.jpg" class="img-fluid" alt="Social Media Marketing">
+    <img src="/images/project/project-detail/Social-media.jpg" class="img-fluid" alt="Social Media Marketing">
   </div>
 
   <!-- PROJECT DETAIL -->
@@ -81,7 +81,7 @@ https://templatemo.com/tm-538-digital-trend
           <h3>Give us a chance to help you in your Social Media Journey to fame!</h3>
 
           <div class="d-flex align-items-center mt-3">
-            <img src="images/project/project-detail/bidisha1.jpg" style="border-radius: 50%;" class="img-fluid"
+            <img src="/images/project/project-detail/bidisha1.jpg" style="border-radius: 50%;" class="img-fluid"
               alt="bidisha saha">
 
             <p>Bidisha Saha</p>

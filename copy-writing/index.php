@@ -52,7 +52,7 @@ https://templatemo.com/tm-538-digital-trend
   </section>
 
   <div class="full-image text-center" data-aos="zoom-in">
-    <img src="images/project/project-detail/copy-writing.jpg" class="img-fluid" alt="copy writing">
+    <img src="/images/project/project-detail/copy-writing.jpg" class="img-fluid" alt="copy writing">
   </div>
 
   <!-- PROJECT DETAIL -->
@@ -81,7 +81,7 @@ https://templatemo.com/tm-538-digital-trend
           <h3>I can write it for you, in your brand voice! Say No More. Let's do this together</h3>
 
           <div class="d-flex align-items-center mt-3">
-            <img src="images/project/project-detail/bidisha1.jpg" style="border-radius: 50%;" class="img-fluid"
+            <img src="/images/project/project-detail/bidisha1.jpg" style="border-radius: 50%;" class="img-fluid"
               alt="bidisha saha">
 
             <p>Bidisha Saha</p>
