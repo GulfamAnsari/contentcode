@@ -48,7 +48,7 @@ https://templatemo.com/tm-538-digital-trend
   <section class="project-detail section-padding">
     <div class="container">
       <div class="row">
-        <h2 class="container">If you need a copy that commands attention, creates desire and turn leads into customers, let's talk! We write engaging web copies for biggest companies in India. Get in touch to drive more revenue for your business.</h2>
+        <h2 class="container">If you need a copy that commands attention, creates desire, and turns leads into customers, let's talk! We write engaging web copies for the biggest entrepreneurs in India. Get in touch to drive more revenue for your business. And guess what if you're pressed for time, we'll get it done in 3 hours!</h2>
        
         <p class="container" style="margin-top: 16px;">Are you looking for...: </p>
         <div class="container">
@@ -67,7 +67,7 @@ https://templatemo.com/tm-538-digital-trend
 
       <div class="col-lg-9 mx-auto col-12" data-aos="fade-up">
         <div class="client-info mt-lg-5 py-lg-5">
-          <h3>I can write it for you, in your brand voice! Say No More. Let's do this together</h3>
+          <h3>We'll write it for you, in your brand voice! Say No More. Let's do this together</h3>
 
           <div class="d-flex align-items-center mt-3">
             <img src="/images/project/project-detail/bidisha1.jpg" style="border-radius: 50%;" class="img-fluid"

@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg">
     <div class="container">
         <a class="navbar-brand" href="/">
-            <i class="fa fa-line-chart"></i>
+            <i class="fa fa-paper-plane" style="margin-left: 6px"></i>
 
             Content Code
         </a>

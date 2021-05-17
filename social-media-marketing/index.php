@@ -41,7 +41,7 @@
   <section class="project-detail section-padding">
     <div class="container">
       <div class="row">
-        <h3 class="container">Companies scale up and make 2X more profit with the right kind of social media content marketing plan and campaign monitoring system. We are a host of inhouse services which includes channel-specific social media services, strategy planning, profile creation and branding, content creation, content publishing, consulting, campaign and community management. If you want to strive in the media marketting game, we are the perfect mentor you need. We'll be your best friend and provide you with the personal attention you need to achieve millions of followers.</h3>
+        <h3 class="container">Companies scale up and make 2X more profit with the right kind of social media content marketing plan and campaign monitoring system. We are a host of in-house services catering young entrepreneurs and businesses. This includes channel-specific social media services, strategy planning, profile creation and branding, content creation, content publishing, consulting, campaign, and community management. If you want to strive in the media marketing game, we are the perfect mentor you need. We'll be your best friend and provide you with the personal attention you need to achieve millions of followers.</h3>
        
         <p class="container" style="margin-top: 16px;"> We offer to: </p>
         <div class="container">

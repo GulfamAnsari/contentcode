@@ -41,7 +41,7 @@
   <section class="project-detail section-padding">
     <div class="container">
       <div class="row">
-        <p class="container">We understand how dificult job searching can get! But did you know that you can increase your chances of getting shortlisted by having a professional resume. It travels to your dream company before you do and has manifold chances of making the right impression on your behalf. It does not matter if you are a fresher or a experienced professional, your resume must accurately depict your key skills and achievements. </p>
+        <p class="container">We understand how difficult job searching can get! But did you know that you can increase your chances of getting shortlisted by having a professional resume? It travels to your dream company before you do and has manifold chances of making the right impression on your behalf. It does not matter if you are a fresher or an experienced professional, your resume must depict your key skills and achievements. </p>
         <p class="container" style="margin-top: 16px;">We can help you with: </p>
         <div class="container">
           <ul class="list-detail">

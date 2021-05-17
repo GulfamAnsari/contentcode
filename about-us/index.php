@@ -25,9 +25,9 @@
 
         <div class="col-lg-9 mx-auto col-md-10 col-12 mt-lg-5 text-center" data-aos="fade-up">
 
-          <h4> Marketing </h4>
+          <h4>  </h4>
 
-          <h1>Content Writing Services</h1>
+          <h1>About Us</h1>
         </div>
 
       </div>
@@ -42,8 +42,7 @@
   <section class="project-detail section-padding">
     <div class="container">
       <div class="row">
-        <h3 class="container">We offer Content Writing services for brands, businesses, influencers, and coaches while you sit back and
-          relax. This is your one-stop solution when under deadline to ideate content and branding strategies.</h3>
+        <h3 class="container">We're on our way to create content for the best business in the world. Our team is inclusive of young professionals who are skilled in English writing. More so, this is a group of enthusiastic professionals who are ready to take on the social media world. We understand the meaning of deadlines and vouch to deliver engaging content in 3 hours! Our vision is to create an online community where plagiarism is condemned and compassion is encouraged. Guarded by our strong work ethics, we create magic through words! </h3>
 
         <p class="container" style="margin-top: 16px;">As a creator, our content is: </p>
         <div class="container">

@@ -2,8 +2,31 @@
 <html lang="en">
 
 <head>
+     
+<title>Content Code: We stitch your ideas into marketable content that drives business in 3 hours!</title>
+<meta name="description" content="Content Code: We stitch your ideas into marketable content that drives business in 3 hours! " />
+<meta name="keywords" content="Content, resume, copywriting, social media, proofreading" />
+<link rel="canonical" href="http://contentcode.in/" />
 
-     <title>Content Code</title>
+<meta property="og:title" content="Content Code: We stitch your ideas into marketable content that drives business in 3 hours!" />
+<meta property="og:description" content="Content,Instagram,Blog,Linkedln,resume,copywriting,social media,proofreading" />
+<meta property="og:url" content="http://contentcode.in/" />
+<meta property="og:site_name" content="Content Code" />
+<meta property="og:image" content="http://contentcode.in/images/working-girl.png"/>
+<meta property="og:image:width" content="1920" />
+<meta property="og:image:height" content="1079" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Content Code: We stitch your ideas into marketable content that drives business in 3 hours!" />
+<meta name="twitter:title" content="Content Code: We stitch your ideas into marketable content that drives business in 3 hours!" />
+<meta name="twitter:image" content="http://contentcode.in/images/working-girl.png" />
+<meta name="twitter:url" content="http://contentcode.in/"/>
+<meta name="twitter:site" content="Content Code" />
+
+
+<meta name="robots" content="index, follow" /><meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
      <!--
 
 Content Code
@@ -11,9 +34,6 @@ Content Code
 https://templatemo.com/tm-538-digital-trend
 
 -->
-     <meta name="description" content="">
-     <meta name="keywords" content="">
-     <meta name="author" content="">
      <?php include($_SERVER['DOCUMENT_ROOT'] . '/head.php'); ?>
 
 </head>
@@ -32,7 +52,7 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
                          <div class="hero-text">
 
-                              <h1 class="text-white" data-aos="fade-up">We paint your ideas into text
+                              <h1 class="text-white" data-aos="fade-up">Fastest and surest way to get engaging content online
 
                               </h1>
 
@@ -65,7 +85,7 @@ https://templatemo.com/tm-538-digital-trend
                               <h2 class="mb-4" data-aos="fade-up">Work with the <strong>innovators</strong> of tommorow</h2>
 
                               <p class="mb-0" data-aos="fade-up">Sit back and relax
-                                   <br><br>We stitch <strong>your ideas into marketable content</strong> that drives business.</p>
+                                   <br><br>We stitch <strong>your ideas into marketable content</strong> that drives business in 3 hours!</p>
                          </div>
 
                          <div class="about-image" data-aos="fade-up" data-aos-delay="200">
