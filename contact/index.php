@@ -6,19 +6,19 @@
   <meta name="description" content="Contact Us: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
   <meta name="keywords" content="Content, resume, copywriting, social media, proofreading" />
   <link rel="canonical" href="http://contentcode.in/contact/" />
-  <meta property="og:title" content="Contact Us" />
+  <meta property="og:title" content="Contact Us- Content Code" />
   <meta property="og:description" content="Contact Us: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
   <meta property="og:url" content="http://contentcode.in/contact/" />
-  <meta property="og:site_name" content="Contact Us" />
+  <meta property="og:site_name" content="Contact Us- Content Code" />
   <meta property="og:image" content="http://contentcode.in/images/working-girl.png" />
   <meta property="og:image:width" content="1920" />
   <meta property="og:image:height" content="1079" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:description" content="Contact Us: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
-  <meta name="twitter:title" content="Contact Us" />
+  <meta name="twitter:title" content="Contact Us- Content Code" />
   <meta name="twitter:image" content="http://contentcode.in/images/working-girl.png" />
   <meta name="twitter:url" content="http://contentcode.in/contact/" />
-  <meta name="twitter:site" content="Contact Us" />
+  <meta name="twitter:site" content="Contact Us- Content Code" />
   <?php include($_SERVER['DOCUMENT_ROOT'] . '/head.php'); ?>
 
 <!--
