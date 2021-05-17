@@ -2,30 +2,24 @@
 <html lang="en">
 
 <head>
-     
-<title>Content Code: We stitch your ideas into marketable content that drives business in 3 hours!</title>
-<meta name="description" content="Content Code: We stitch your ideas into marketable content that drives business in 3 hours! " />
-<meta name="keywords" content="Content, resume, copywriting, social media, proofreading" />
-<link rel="canonical" href="http://contentcode.in/" />
 
-<meta property="og:title" content="Content Code: We stitch your ideas into marketable content that drives business in 3 hours!" />
-<meta property="og:description" content="Content,Instagram,Blog,Linkedln,resume,copywriting,social media,proofreading" />
-<meta property="og:url" content="http://contentcode.in/" />
-<meta property="og:site_name" content="Content Code" />
-<meta property="og:image" content="http://contentcode.in/images/working-girl.png"/>
-<meta property="og:image:width" content="1920" />
-<meta property="og:image:height" content="1079" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="Content Code: We stitch your ideas into marketable content that drives business in 3 hours!" />
-<meta name="twitter:title" content="Content Code: We stitch your ideas into marketable content that drives business in 3 hours!" />
-<meta name="twitter:image" content="http://contentcode.in/images/working-girl.png" />
-<meta name="twitter:url" content="http://contentcode.in/"/>
-<meta name="twitter:site" content="Content Code" />
-
-
-<meta name="robots" content="index, follow" /><meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+     <title>Content Code</title>
+     <meta name="description" content="Content Code: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
+     <meta name="keywords" content="Content, resume, copywriting, social media, proofreading" />
+     <link rel="canonical" href="http://contentcode.in/" />
+     <meta property="og:title" content="Content Code" />
+     <meta property="og:description" content="Content Code: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
+     <meta property="og:url" content="http://contentcode.in/" />
+     <meta property="og:site_name" content="Content Code" />
+     <meta property="og:image" content="http://contentcode.in/images/working-girl.png" />
+     <meta property="og:image:width" content="1920" />
+     <meta property="og:image:height" content="1079" />
+     <meta name="twitter:card" content="summary" />
+     <meta name="twitter:description" content="Content Code: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
+     <meta name="twitter:title" content="Content Code" />
+     <meta name="twitter:image" content="http://contentcode.in/images/working-girl.png" />
+     <meta name="twitter:url" content="http://contentcode.in/" />
+     <meta name="twitter:site" content="Content Code" />
 
      <!--
 
@@ -214,7 +208,7 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-md-4 testimonial-box" data-aos="fade-up" data-aos-delay="400">
                          <div data-aos="fade-up" data-aos-delay="400" class="testi-image"><img width="150" src="https://droidtechknow.com/images/logo.png" class="img-fluid" alt="website"></div>
                          <h4 data-aos="fade-up" data-aos-delay="100"><a href="https://droidtechknow.com" target="_blank">DroidTechKnow</a></h4>
-                         
+
                          <blockquote style="font-style: italic" class="mb-4" data-aos="fade-up" data-aos-delay="300">Managing a blog can be tiresome sometimes but with end-to-end blogging and marketing services from Content Code, we achieved 2X more revenue in just three month!</blockquote>
                          <p data-aos="fade-up" data-aos-delay="400">
                               <strong>Gulfam Ansari</strong>
