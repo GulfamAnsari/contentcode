@@ -48,10 +48,10 @@
 
             <div class="col-lg-3 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="600">
                 <ul class="social-icon">
-                    <li><a href="#" class="fa fa-instagram"></a></li>
-                    <li><a href="#" class="fa fa-twitter"></a></li>
-                    <li><a href="#" class="fa fa-facebook"></a></li>
-                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                    <li><a href="https://www.instagram.com/contentcode.official/" target="_blank" class="fa fa-instagram"></a></li>
+                    <li><a href="https://twitter.com/ContentCode1" target="_blank" class="fa fa-twitter"></a></li>
+                    <li><a href="https://www.facebook.com/Contentcode.official"  target="_blank" class="fa fa-facebook"></a></li>
+                    <li><a href="https://www.linkedin.com/company/78003021/admin/" target="_blank"  class="fa fa-linkedin"></a></li>
                 </ul>
             </div>
 
