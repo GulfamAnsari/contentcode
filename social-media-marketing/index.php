@@ -3,19 +3,19 @@
 
 <head>
 
-  <title>Content Code</title>
-  <meta name="description" content="Content Code: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
+  <title>Social Media Marketing- Content Code</title>
+  <meta name="description" content="Companies scale up and make 2X more profit with the right kind of social media content marketing plan and campaign monitoring system" />
   <meta name="keywords" content="Content, resume, copywriting, social media, proofreading" />
   <link rel="canonical" href="http://contentcode.in/social-media-marketing/" />
   <meta property="og:title" content="Social Media Marketing- Content Code" />
-  <meta property="og:description" content="Content Code: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
+  <meta property="og:description" content="Companies scale up and make 2X more profit with the right kind of social media content marketing plan and campaign monitoring system" />
   <meta property="og:url" content="http://contentcode.in/social-media-marketing/" />
   <meta property="og:site_name" content="Social Media Marketing- Content Code" />
   <meta property="og:image" content="http://contentcode.in/images/working-girl.png" />
   <meta property="og:image:width" content="1920" />
   <meta property="og:image:height" content="1079" />
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:description" content="Content Code: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
+  <meta name="twitter:description" content="Companies scale up and make 2X more profit with the right kind of social media content marketing plan and campaign monitoring system" />
   <meta name="twitter:title" content="Social Media Marketing- Content Code" />
   <meta name="twitter:image" content="http://contentcode.in/images/working-girl.png" />
   <meta name="twitter:url" content="http://contentcode.in/social-media-marketing/" />

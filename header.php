@@ -1,9 +1,9 @@
 <nav class="navbar navbar-expand-lg">
     <div class="container">
         <a class="navbar-brand" href="/">
-            <i class="fa fa-paper-plane" style="margin-left: 6px"></i>
+            <img src="/images/logo.png" width="250px" style="margin-left: 6px" />
 
-            Content Code
+            
         </a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

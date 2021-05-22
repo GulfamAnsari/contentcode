@@ -11,13 +11,11 @@
      <meta property="og:description" content="Content Code: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
      <meta property="og:url" content="http://contentcode.in/" />
      <meta property="og:site_name" content="Content Code" />
-     <meta property="og:image" content="http://contentcode.in/images/working-girl.png" />
-     <meta property="og:image:width" content="1920" />
-     <meta property="og:image:height" content="1079" />
+   
      <meta name="twitter:card" content="summary" />
      <meta name="twitter:description" content="Content Code: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
      <meta name="twitter:title" content="Content Code" />
-     <meta name="twitter:image" content="http://contentcode.in/images/working-girl.png" />
+ 
      <meta name="twitter:url" content="http://contentcode.in/" />
      <meta name="twitter:site" content="Content Code" />
 
@@ -53,6 +51,7 @@ https://templatemo.com/tm-538-digital-trend
                               <a href="/contact" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">Let's work on your ideas together !</a>
 
                               <strong class="d-block py-3 pl-5 text-white" data-aos="fade-up" data-aos-delay="200"><i class="fa fa-phone mr-2"></i> +91 8777678374 </strong>
+                              <strong class="d-block py-1 pl-5 text-white" data-aos="fade-up" data-aos-delay="200"><i  style="margin-right: 10px" class="fa fa-envelope"></i>contact@contentcode.in </strong>
                          </div>
                     </div>
 
