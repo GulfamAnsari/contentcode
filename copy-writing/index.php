@@ -12,21 +12,19 @@ https://templatemo.com/tm-538-digital-trend
 
 -->
   
-<title>Content Code</title>
-  <meta name="description" content="Content Code: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
+<title>Copywriting- Content Code</title>
+  <meta name="description" content="If you need a copy that commands attention, creates desire, and turns leads into customers, let's talk! " />
   <meta name="keywords" content="Content, resume, copywriting, social media, proofreading" />
   <link rel="canonical" href="http://contentcode.in/copy-writing/" />
   <meta property="og:title" content="Copywriting- Content Code" />
-  <meta property="og:description" content="Content Code: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
+  <meta property="og:description" content="If you need a copy that commands attention, creates desire, and turns leads into customers, let's talk! " />
   <meta property="og:url" content="http://contentcode.in/copy-writing/" />
   <meta property="og:site_name" content="Copywriting- Content Code" />
-  <meta property="og:image" content="http://contentcode.in/images/working-girl.png" />
-  <meta property="og:image:width" content="1920" />
-  <meta property="og:image:height" content="1079" />
+  
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:description" content="Content Code: Fastest way to create marketable content for blogs, coaches, entrepreneurs, business online" />
+  <meta name="twitter:description" content="If you need a copy that commands attention, creates desire, and turns leads into customers, let's talk! " />
   <meta name="twitter:title" content="Copywriting- Content Code" />
-  <meta name="twitter:image" content="http://contentcode.in/images/working-girl.png" />
+ 
   <meta name="twitter:url" content="http://contentcode.in/copy-writing/" />
   <meta name="twitter:site" content="Content Code" />
   <?php include($_SERVER['DOCUMENT_ROOT'] . '/head.php'); ?>
