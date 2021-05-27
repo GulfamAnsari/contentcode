@@ -16,8 +16,7 @@
 
                 <p>
                     <a href="#">
-                        <i class="fa fa-envelope mr-2 footer-icon"></i>
-                        contact@contentcode.com
+                        <i class="fa fa-envelope mr-2 footer-icon"></i>contact@contentcode.com
                     </a>
                 </p>
             </div>

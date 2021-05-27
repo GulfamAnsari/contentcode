@@ -44,7 +44,7 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
                          <div class="hero-text">
 
-                              <h1 class="text-white" data-aos="fade-up">Fastest and surest way to get engaging content online
+                              <h1 class="text-white" data-aos="fade-up">Fastest way to get engaging content online
 
                               </h1>
 
@@ -75,10 +75,10 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-lg-7 mx-auto col-md-10 col-12">
                          <div class="about-info">
 
-                              <h2 class="mb-4" data-aos="fade-up">Work with the <strong>innovators</strong> of tommorow</h2>
+                              <h2 class="mb-4" data-aos="fade-up">Calling out all the <strong>creative business </strong> owners</h2>
 
-                              <p class="mb-0" data-aos="fade-up">Sit back and relax
-                                   <br><br>We stitch <strong>your ideas into marketable content</strong> that drives business in 3 hours!</p>
+                              <p class="mb-0" data-aos="fade-up">Work with the innovators of tomorrow
+                                   <br><br>Sit back and relax, while we stitch <strong>your ideas into marketable content</strong> that drives business in 3 hours!</p>
                          </div>
 
                          <div class="about-image" data-aos="fade-up" data-aos-delay="200">

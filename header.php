@@ -16,19 +16,17 @@
                     <a href="/" class="nav-link smoothScroll">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#project" class="nav-link smoothScroll">Our Services</a>
+                    <a href="#project" class="nav-link smoothScroll"> Services</a>
                 </li>
                 <li class="nav-item">
-                    <a href="/blog" class="nav-link">Latest Blogs</a>
+                    <a href="/blog" class="nav-link"> Blogs</a>
                 </li>
                 <li class="nav-item">
                     <a href="/about-us" class="nav-link">About Us</a>
                 </li>
+                
                 <li class="nav-item">
-                    <a href="/consulting-masterclass" class="nav-link">Consulting Masterclass</a>
-                </li>
-                <li class="nav-item">
-                    <a href="/contact" class="nav-link contact">Contact Us</a>
+                    <a href="/contact" class="nav-link contact">Get Quote</a>
                 </li>
 
             </ul>
