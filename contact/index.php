@@ -72,7 +72,7 @@ https://templatemo.com/tm-538-digital-trend
                           </div>
 
                           <div class="col-lg-5 mx-auto col-7">
-                            <button onclick="sendEmail()" class="form-control" id="submit-button" name="submit">Send Message</button>
+                            <button onsubmit="sendEmail()" type="submit" class="form-control" id="submit-button" name="submit">Send Message</button>
                           </div>
                           <div class="col-lg-5 mx-auto col-7">
                             <p style="color: green" id="success"></p>
@@ -101,7 +101,8 @@ https://templatemo.com/tm-538-digital-trend
      
 
 <script>
-    function sendEmail() {
+    function sendEmail(e) {
+      e.preventDefault()
         var body = { name, email, "sender": "contentcode", "subject": "Subject", message };
         // API for get requests
         let fetchRes = fetch(
