@@ -76,7 +76,7 @@ https://templatemo.com/tm-538-digital-trend
                           </div>
                           <div class="col-lg-5 mx-auto col-7">
                             <p style="color: green" id="success"></p>
-                            <p style="color: green" id="fail"></p>
+                            <p style="color: red" id="fail"></p>
                           </div>
                         </div>
 
