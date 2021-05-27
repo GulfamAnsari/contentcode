@@ -60,19 +60,23 @@ https://templatemo.com/tm-538-digital-trend
                       <form action="#" method="post" class="contact-form" data-aos="fade-up" data-aos-delay="300" role="form">
                         <div class="row">
                           <div class="col-lg-6 col-12">
-                            <input type="text" class="form-control" name="name" placeholder="Name">
+                            <input type="text" id="name" class="form-control" name="name" placeholder="Name">
                           </div>
 
                           <div class="col-lg-6 col-12">
-                            <input type="email" class="form-control" name="email" placeholder="Email">
+                            <input type="email" id="email" class="form-control" name="email" placeholder="Email">
                           </div>
 
                           <div class="col-lg-12 col-12">
-                            <textarea class="form-control" rows="6" name="message" placeholder="Message"></textarea>
+                            <textarea id="message" class="form-control" rows="6" name="message" placeholder="Message"></textarea>
                           </div>
 
                           <div class="col-lg-5 mx-auto col-7">
-                            <button type="submit" class="form-control" id="submit-button" name="submit">Send Message</button>
+                            <button onclick="sendEmail()" class="form-control" id="submit-button" name="submit">Send Message</button>
+                          </div>
+                          <div class="col-lg-5 mx-auto col-7">
+                            <p style="color: green" id="success"></p>
+                            <p style="color: green" id="fail"></p>
                           </div>
                         </div>
 
@@ -94,8 +98,36 @@ https://templatemo.com/tm-538-digital-trend
        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224346.48129412968!2d77.06889969035102!3d28.52728034389636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x52c2b7494e204dce!2sNew%20Delhi%2C%20Delhi!5e0!3m2!1sen!2sin!4v1620824125900!5m2!1sen!2sin" width="1920" height="600"" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
      </div>
 
+     
 
+<script>
+    function sendEmail() {
+        var body = { name, email, "sender": "contentcode", "subject": "Subject", message };
+        // API for get requests
+        let fetchRes = fetch(
+            "https://droidtechknow-mail-box.herokuapp.com/send-query", {
+            "headers": {
+                "accept": "application/json, text/plain, */*",
+                "content-type": "application/json"
+            },
+            body: JSON.stringify(body),
+            "method": "POST"
+        });
+
+        // fetchRes is the promise to resolve
+        // it by using.then() method
+        document.getElementById("success").innerHTML = '';
+        document.getElementById("fail").innerHTML = '';
+        fetchRes.then(res =>
+            res.json()).then(d => {
+                console.log(d);
+                document.getElementById("success").innerHTML = 'Email sent successfully. We will contact you soon. Thanks!';
+            }, (e) => {
+                console.log(e);
+                document.getElementById("fail").innerHTML = 'Error while sending the email. Please try again later.';
+            });
+        }
+      </script>
      <?php include($_SERVER['DOCUMENT_ROOT'] . '/footer.php'); ?>
-
 </body>
 </html>
