@@ -72,7 +72,7 @@ https://templatemo.com/tm-538-digital-trend
                           </div>
 
                           <div class="col-lg-5 mx-auto col-7">
-                            <button onclick="sendEmail()" class="form-control" id="submit-button">Send Message</button>
+                            <button onclick="sendEmail()" class="form-control" id="submit">Send Message</button>
                           </div>
                           <div class="col-lg-5 mx-auto col-7">
                             <p style="color: green" id="success"></p>
