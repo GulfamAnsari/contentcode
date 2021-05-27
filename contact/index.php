@@ -72,7 +72,7 @@ https://templatemo.com/tm-538-digital-trend
                           </div>
 
                           <div class="col-lg-5 mx-auto col-7">
-                            <button  onsubmit="sendEmail()" type="submit" class="form-control" id="submit-button" name="submit">Send Message</button>
+                            <button  onclick="sendEmail()" type="submit" class="form-control" id="submit-button" name="submit">Send Message</button>
                           </div>
                           <div class="col-lg-5 mx-auto col-7">
                             <p style="color: green" id="success"></p>
@@ -102,6 +102,18 @@ https://templatemo.com/tm-538-digital-trend
 
 <script>
     function sendEmail() {
+      var name = document.getElementById("name").value;
+      var email = document.getElementById("email").value;
+      var message = document.getElementById("message").value;
+      function validateEmail(email) {
+        const re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        return re.test(email);
+      }
+
+      if (!validateEmail(email)) {
+        document.getElementById("fail").innerHTML = 'Please enter the valid email address';
+        return;
+      }
         var body = { name, email, "sender": "contentcode", "subject": "Subject", message };
         // API for get requests
         let fetchRes = fetch(
