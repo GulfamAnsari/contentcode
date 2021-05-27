@@ -57,7 +57,7 @@ https://templatemo.com/tm-538-digital-trend
                     
                     <!-- Follow https://templatemo.com/contact page to setup your own contact form -->
                     
-                      <div >
+                      <div  class="contact-form" data-aos="fade-up" data-aos-delay="300" >
                         <div class="row">
                           <div class="col-lg-6 col-12">
                             <input type="text" id="name" class="form-control" name="name" placeholder="Name">
@@ -72,7 +72,7 @@ https://templatemo.com/tm-538-digital-trend
                           </div>
 
                           <div class="col-lg-5 mx-auto col-7">
-                            <button   onclick="sendEmail(e)"  type="submit" class="form-control" id="submit-button" name="submit">Send Message</button>
+                            <button  onsubmit="sendEmail()" type="submit" class="form-control" id="submit-button" name="submit">Send Message</button>
                           </div>
                           <div class="col-lg-5 mx-auto col-7">
                             <p style="color: green" id="success"></p>
@@ -101,9 +101,7 @@ https://templatemo.com/tm-538-digital-trend
      
 
 <script>
-    function sendEmail(e) {
-      console.log('submit')
-      e.preventDefault()
+    function sendEmail() {
         var body = { name, email, "sender": "contentcode", "subject": "Subject", message };
         // API for get requests
         let fetchRes = fetch(
