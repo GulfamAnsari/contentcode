@@ -1,5 +1,7 @@
 <footer class="site-footer">
     <div class="container">
+       
+        
         <div class="row">
 
             <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
@@ -66,3 +68,4 @@
 <script src="/js/owl.carousel.min.js"></script>
 <script src="/js/smoothscroll.js"></script>
 <script src="/js/custom.js"></script>
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5084a5cd95ccc96a3efef7bd3/2c6a03cea3835ee7b7672c410.js");</script>

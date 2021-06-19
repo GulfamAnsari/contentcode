@@ -204,6 +204,7 @@ https://templatemo.com/tm-538-digital-trend
                               Read what our clients say...
                          </h3>
                     </div>
+                    <div style="display: flex;     justify-content: space-evenly;">
                     <div class="col-md-4 testimonial-box" data-aos="fade-up" data-aos-delay="400">
                          <div data-aos="fade-up" data-aos-delay="400" class="testi-image"><img width="150" src="https://droidtechknow.com/images/logo.png" class="img-fluid" alt="website"></div>
                          <h4 data-aos="fade-up" data-aos-delay="100"><a href="https://droidtechknow.com" target="_blank">DroidTechKnow</a></h4>
@@ -216,6 +217,20 @@ https://templatemo.com/tm-538-digital-trend
 
                               <small>Tech Blog (CEO)</small>
                          </p>
+                    </div>
+                     <div class="col-md-4 testimonial-box" data-aos="fade-up" data-aos-delay="400">
+                         <div data-aos="fade-up" data-aos-delay="400" class="testi-image"><img width="150" src="/images/getdroidlogo.png" class="img-fluid" alt="website"></div>
+                         <h4 data-aos="fade-up" data-aos-delay="100"><a  rel="noindex, nofollow" href="https://www.getdroidtips.com/" target="_blank">Get Droid Tips</a></h4>
+
+                         <blockquote style="font-style: italic" class="mb-4" data-aos="fade-up" data-aos-delay="300">Working experience with Content Code has been great. Thier ideas are original and SEO based which has helped a lot to improve our overall content. Looking forward to our fruitfull association for more.</blockquote>
+                         <p data-aos="fade-up" data-aos-delay="400">
+                              <strong>Abdul Razak</strong>
+
+                              <span class="mx-1">/</span>
+
+                              <small>Tech Blog</small>
+                         </p>
+                    </div>
                     </div>
                </div>
 
